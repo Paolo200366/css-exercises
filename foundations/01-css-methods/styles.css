@@ -1,0 +1,10 @@
+/* styles.css */
+
+div {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+background-color: red;
+font-size: 32px;
+text-align: center;
+font-weight: bold;
+}
